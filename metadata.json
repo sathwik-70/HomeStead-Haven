@@ -1,0 +1,8 @@
+{
+  "name": "HomeStead Haven | Luxury Indian Real Estate",
+  "description": "HomeStead Haven is India's premier 3D real estate platform, featuring AI-powered concierge services, premium property listings, and an elite glassmorphism interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
